@@ -153,7 +153,7 @@ void Logic()
         score += 10;
         fruitX = rand() % width;
         fruitY = rand() % height;
-        nTail++;
+        nTrail++;
     }
 }
 
